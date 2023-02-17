@@ -1,0 +1,1050 @@
+{
+   "187589bb7d4644f2943079fb949c0be9": {
+      "skybox": 4,
+      "angle": 296,
+      "action": 8,
+      "x_offset": 450,
+      "y_offset": 244,
+      "scale": 32
+   },
+   "9d0091e93633403c910577b4221e353c": {
+      "skybox": 4,
+      "angle": 117,
+      "action": 1,
+      "x_offset": 329,
+      "y_offset": 486,
+      "scale": 24
+   },
+   "e5bfa9c293cd44e1b14953500462dd72": {
+      "skybox": 3,
+      "angle": 193,
+      "action": 23,
+      "x_offset": 524,
+      "y_offset": 580,
+      "scale": 25
+   },
+   "d962509cdba64e6ca76a6228582eb901": {
+      "skybox": 3,
+      "angle": 38,
+      "action": 11,
+      "x_offset": 444,
+      "y_offset": 644,
+      "scale": 31
+   },
+   "e10d6b636ed94caa87771f92b1251868": {
+      "skybox": 1,
+      "angle": 310,
+      "action": 33,
+      "x_offset": 641,
+      "y_offset": 298,
+      "scale": 79
+   },
+   "7a663a2787474bc2b09a4e8b21325141": {
+      "skybox": 2,
+      "angle": 18,
+      "action": 9,
+      "x_offset": 369,
+      "y_offset": 161,
+      "scale": 63
+   },
+   "2816e163791e4878804d6b7476b9dddd": {
+      "skybox": 1,
+      "angle": 70,
+      "action": 26,
+      "x_offset": 356,
+      "y_offset": 585,
+      "scale": 17
+   },
+   "3c8c9d438bdd4ebaad5a0d0e93a43c0f": {
+      "skybox": 3,
+      "angle": 221,
+      "action": 19,
+      "x_offset": 667,
+      "y_offset": 438,
+      "scale": 24
+   },
+   "3adc93014dad46b6879d8d7b6922f02c": {
+      "skybox": 2,
+      "angle": 97,
+      "action": 12,
+      "x_offset": 510,
+      "y_offset": 257,
+      "scale": 57
+   },
+   "a3fe827d49db4f7caa076c313434d418": {
+      "skybox": 4,
+      "angle": 236,
+      "action": 4,
+      "x_offset": 255,
+      "y_offset": 114,
+      "scale": 17
+   },
+   "cc25797eeb974e54ae3f1fc30e0d19ef": {
+      "skybox": 1,
+      "angle": 148,
+      "action": 23,
+      "x_offset": 388,
+      "y_offset": 510,
+      "scale": 28
+   },
+   "0993008242df4171b26c1bf92ff5e845": {
+      "skybox": 1,
+      "angle": 164,
+      "action": 11,
+      "x_offset": 648,
+      "y_offset": 126,
+      "scale": 66
+   },
+   "6c15ae9a3fc24613b9fcedb3da80aee5": {
+      "skybox": 3,
+      "angle": 350,
+      "action": 23,
+      "x_offset": 800,
+      "y_offset": 520,
+      "scale": 78
+   },
+   "483b844778c545d899860802e9c5c9d5": {
+      "skybox": 1,
+      "angle": 138,
+      "action": 15,
+      "x_offset": 116,
+      "y_offset": 290,
+      "scale": 64
+   },
+   "ec43700aa7b34d48a20f6cdd45dc6a55": {
+      "skybox": 3,
+      "angle": 333,
+      "action": 24,
+      "x_offset": 357,
+      "y_offset": 580,
+      "scale": 47
+   },
+   "87f68627d919449995ed93f6ae72e6ab": {
+      "skybox": 0,
+      "angle": 220,
+      "action": 6,
+      "x_offset": 360,
+      "y_offset": 480,
+      "scale": 64
+   },
+   "1e649cc84c9043b69e2367b7d5aeecf2": {
+      "skybox": 1,
+      "angle": 202,
+      "action": 17,
+      "x_offset": 173,
+      "y_offset": 195,
+      "scale": 41
+   },
+   "03a8325e3b054e3fad7e1e7091f9d283": {
+      "skybox": 2,
+      "angle": 170,
+      "action": 23,
+      "x_offset": 800,
+      "y_offset": 480,
+      "scale": 20
+   },
+   "3eb5c4d7ad9a4805b0470cf5f9e3b17c": {
+      "skybox": 3,
+      "angle": 360,
+      "action": 23,
+      "x_offset": 230,
+      "y_offset": 460,
+      "scale": 46
+   },
+   "7ce4382def52411ba706d50d2377447b": {
+      "skybox": 3,
+      "angle": 26,
+      "action": 16,
+      "x_offset": 430,
+      "y_offset": 666,
+      "scale": 65
+   },
+   "3678af49806f4220b821c23d4ec3d33b": {
+      "skybox": 3,
+      "angle": 256,
+      "action": 29,
+      "x_offset": 326,
+      "y_offset": 283,
+      "scale": 51
+   },
+   "8d0cc65b2a484591a97b9a8282809f50": {
+      "skybox": 3,
+      "angle": 187,
+      "action": 13,
+      "x_offset": 572,
+      "y_offset": 641,
+      "scale": 52
+   },
+   "d7ec37565be24b1ca1d4f99c34fc1632": {
+      "skybox": 3,
+      "angle": 310,
+      "action": 36,
+      "x_offset": 632,
+      "y_offset": 272,
+      "scale": 29
+   },
+   "fc94c2a0445640028200b2f96e1fe90c": {
+      "skybox": 1,
+      "angle": 257,
+      "action": 29,
+      "x_offset": 567,
+      "y_offset": 526,
+      "scale": 15
+   },
+   "9092fc23426942e1a94b66181a3d0fc7": {
+      "skybox": 3,
+      "angle": 22,
+      "action": 14,
+      "x_offset": 184,
+      "y_offset": 419,
+      "scale": 45
+   },
+   "2b4fc2765e164775bb82e0aaf1d0d65d": {
+      "skybox": 2,
+      "angle": 100,
+      "action": 4,
+      "x_offset": 433,
+      "y_offset": 138,
+      "scale": 55
+   },
+   "3b2ba223f6a445a6bf4561f1853e83c1": {
+      "skybox": 4,
+      "angle": 326,
+      "action": 18,
+      "x_offset": 446,
+      "y_offset": 350,
+      "scale": 29
+   },
+   "c6a181682e8f4c55b27287031ed7ddcd": {
+      "skybox": 3,
+      "angle": 143,
+      "action": 2,
+      "x_offset": 523,
+      "y_offset": 246,
+      "scale": 73
+   },
+   "a55a46bc13e743ca8626a97ac056b8f3": {
+      "skybox": 4,
+      "angle": 103,
+      "action": 12,
+      "x_offset": 367,
+      "y_offset": 442,
+      "scale": 55
+   },
+   "9f604c054f8f4a0da5778d3c0b36575d": {
+      "skybox": 3,
+      "angle": 360,
+      "action": 6,
+      "x_offset": 760,
+      "y_offset": 520,
+      "scale": 18
+   },
+   "45af9f44b1d041159dd1ded3c28e8457": {
+      "skybox": 3,
+      "angle": 223,
+      "action": 8,
+      "x_offset": 212,
+      "y_offset": 352,
+      "scale": 78
+   },
+   "74bbacaafe014759bb9a6cc694d72516": {
+      "skybox": 4,
+      "angle": 53,
+      "action": 7,
+      "x_offset": 666,
+      "y_offset": 372,
+      "scale": 65
+   },
+   "571d716b0cdd430d99c63474c34f0c9c": {
+      "skybox": 0,
+      "angle": 220,
+      "action": 6,
+      "x_offset": 360,
+      "y_offset": 480,
+      "scale": 64
+   },
+   "a6ce5d580416478b847a83a2c537a637": {
+      "skybox": 4,
+      "angle": 219,
+      "action": 34,
+      "x_offset": 602,
+      "y_offset": 396,
+      "scale": 21
+   },
+   "b8196686626248beb76ea7c31e6e44e2": {
+      "skybox": 2,
+      "angle": 100,
+      "action": 30,
+      "x_offset": 185,
+      "y_offset": 684,
+      "scale": 76
+   },
+   "0927e4d3dc3e4c8590fd3f7dc512a130": {
+      "skybox": 2,
+      "angle": 146,
+      "action": 0,
+      "x_offset": 683,
+      "y_offset": 377,
+      "scale": 15
+   },
+   "8e1fa462cea64696aa723bbfbdb1b21e": {
+      "skybox": 1,
+      "angle": 101,
+      "action": 12,
+      "x_offset": 447,
+      "y_offset": 597,
+      "scale": 49
+   },
+   "dba514ffecec43bdb0a247cd898d224b": {
+      "skybox": 4,
+      "angle": 203,
+      "action": 32,
+      "x_offset": 597,
+      "y_offset": 319,
+      "scale": 55
+   },
+   "ca38c3e0cbcf4a4992d79889e5793cb7": {
+      "skybox": 3,
+      "angle": 233,
+      "action": 37,
+      "x_offset": 540,
+      "y_offset": 565,
+      "scale": 28
+   },
+   "c3fe2f1211cf4bce8458006b7f174010": {
+      "skybox": 3,
+      "angle": 262,
+      "action": 23,
+      "x_offset": 337,
+      "y_offset": 643,
+      "scale": 78
+   },
+   "e0f025c0baa94beba57ea499e3d846c5": {
+      "skybox": 2,
+      "angle": 152,
+      "action": 7,
+      "x_offset": 379,
+      "y_offset": 271,
+      "scale": 20
+   },
+   "356a6494c8034d6d845f0bba28b8effb": {
+      "skybox": 2,
+      "angle": 218,
+      "action": 13,
+      "x_offset": 404,
+      "y_offset": 508,
+      "scale": 23
+   },
+   "541ab4e8ff1f4bc8bf20775a1fb38872": {
+      "skybox": 1,
+      "angle": 14,
+      "action": 17,
+      "x_offset": 356,
+      "y_offset": 634,
+      "scale": 62
+   },
+   "751a95287d8e487eac608776f5e3a546": {
+      "skybox": 1,
+      "angle": 277,
+      "action": 28,
+      "x_offset": 101,
+      "y_offset": 613,
+      "scale": 42
+   },
+   "0b302846f0994ec9851862b1d317d7f2": {
+      "skybox": 1,
+      "angle": 108,
+      "action": 14,
+      "x_offset": 557,
+      "y_offset": 435,
+      "scale": 51
+   },
+   "0f7e0af0cb3b4c2abf62bba2fd955702": {
+      "skybox": 1,
+      "angle": 311,
+      "action": 4,
+      "x_offset": 462,
+      "y_offset": 470,
+      "scale": 25
+   },
+   "9a10d725e7334967a8ca89b2a61c446e": {
+      "skybox": 1,
+      "angle": 239,
+      "action": 4,
+      "x_offset": 411,
+      "y_offset": 460,
+      "scale": 75
+   },
+   "9167f8d20b954ccf97b09d33762cf4d5": {
+      "skybox": 3,
+      "angle": 281,
+      "action": 3,
+      "x_offset": 458,
+      "y_offset": 186,
+      "scale": 24
+   },
+   "36127c5e30e644799c0f1a1ecd4381ca": {
+      "skybox": 2,
+      "angle": 180,
+      "action": 0,
+      "x_offset": 376,
+      "y_offset": 445,
+      "scale": 73
+   },
+   "c7b097de55f242fa8bdd795d3945637d": {
+      "skybox": 2,
+      "angle": 124,
+      "action": 28,
+      "x_offset": 646,
+      "y_offset": 341,
+      "scale": 25
+   },
+   "95e9e714db234174b904782f1256c3f9": {
+      "skybox": 3,
+      "angle": 180,
+      "action": 6,
+      "x_offset": 220,
+      "y_offset": 560,
+      "scale": 40
+   },
+   "6c58b3d5819e4ca8b896f81230477c7e": {
+      "skybox": 3,
+      "angle": 340,
+      "action": 29,
+      "x_offset": 429,
+      "y_offset": 553,
+      "scale": 34
+   },
+   "76c9116d417849c6be0f37a8b353e0d8": {
+      "skybox": 2,
+      "angle": 287,
+      "action": 9,
+      "x_offset": 443,
+      "y_offset": 359,
+      "scale": 62
+   },
+   "95064dc2001c4f64b0ccc9ab9702e35e": {
+      "skybox": 4,
+      "angle": 220,
+      "action": 14,
+      "x_offset": 556,
+      "y_offset": 440,
+      "scale": 34
+   },
+   "5908a457f37a470aa0e8cd389f31d438": {
+      "skybox": 1,
+      "angle": 204,
+      "action": 15,
+      "x_offset": 688,
+      "y_offset": 627,
+      "scale": 57
+   },
+   "14a8edbbe4b14a05b1b5782a884fb6bf": {
+      "skybox": 1,
+      "angle": 360,
+      "action": 6,
+      "x_offset": 580,
+      "y_offset": 500,
+      "scale": 35
+   },
+   "ef2bbeeb20aa4059bc79a9c3b7a45a1f": {
+      "skybox": 1,
+      "angle": 309,
+      "action": 32,
+      "x_offset": 225,
+      "y_offset": 127,
+      "scale": 44
+   },
+   "f3d9a22621e14992b8b3fb9776f0395b": {
+      "skybox": 4,
+      "angle": 310,
+      "action": 15,
+      "x_offset": 196,
+      "y_offset": 306,
+      "scale": 27
+   },
+   "74d5b2290be74a1ba052b6fe2320e064": {
+      "skybox": 2,
+      "angle": 39,
+      "action": 27,
+      "x_offset": 438,
+      "y_offset": 415,
+      "scale": 26
+   },
+   "e60f96413bf448889377affdd919ba35": {
+      "skybox": 2,
+      "angle": 91,
+      "action": 35,
+      "x_offset": 628,
+      "y_offset": 686,
+      "scale": 25
+   },
+   "5c297f8154ee4807bbd7dea5e4e6eb21": {
+      "skybox": 2,
+      "angle": 283,
+      "action": 17,
+      "x_offset": 178,
+      "y_offset": 697,
+      "scale": 22
+   },
+   "e5c5d8fa1ad94d97bcdb74e69e938ea0": {
+      "skybox": 4,
+      "angle": 113,
+      "action": 23,
+      "x_offset": 631,
+      "y_offset": 265,
+      "scale": 37
+   },
+   "04e0d7506a0849009fabf4c10fa74a40": {
+      "skybox": 2,
+      "angle": 42,
+      "action": 15,
+      "x_offset": 312,
+      "y_offset": 552,
+      "scale": 75
+   },
+   "ae407deab28949e8b8daede6749be158": {
+      "skybox": 1,
+      "angle": 262,
+      "action": 32,
+      "x_offset": 553,
+      "y_offset": 500,
+      "scale": 36
+   },
+   "6ab39d830183407cb7ec17206889000d": {
+      "skybox": 2,
+      "angle": 67,
+      "action": 29,
+      "x_offset": 125,
+      "y_offset": 671,
+      "scale": 29
+   },
+   "68f75a181e364970b3f1cf783c0380fa": {
+      "skybox": 1,
+      "angle": 314,
+      "action": 19,
+      "x_offset": 463,
+      "y_offset": 560,
+      "scale": 41
+   },
+   "50476a17346a4879906f81b47b9418de": {
+      "skybox": 3,
+      "angle": 109,
+      "action": 13,
+      "x_offset": 672,
+      "y_offset": 569,
+      "scale": 30
+   },
+   "b72841257cae4f829f8a68c30175ff07": {
+      "skybox": 2,
+      "angle": 266,
+      "action": 22,
+      "x_offset": 697,
+      "y_offset": 626,
+      "scale": 65
+   },
+   "30cf3312b4f647b8bf50970f2b894aac": {
+      "skybox": 1,
+      "angle": 56,
+      "action": 4,
+      "x_offset": 667,
+      "y_offset": 565,
+      "scale": 79
+   },
+   "707a59ada1bc4b4f90638ddfa809ebd5": {
+      "skybox": 3,
+      "angle": 216,
+      "action": 9,
+      "x_offset": 168,
+      "y_offset": 227,
+      "scale": 39
+   },
+   "3264da900f47425c8c062f909db9abe0": {
+      "skybox": 2,
+      "angle": 262,
+      "action": 7,
+      "x_offset": 611,
+      "y_offset": 422,
+      "scale": 69
+   },
+   "c687ee4d80bc453d905d501b347675b8": {
+      "skybox": 4,
+      "angle": 184,
+      "action": 18,
+      "x_offset": 223,
+      "y_offset": 115,
+      "scale": 51
+   },
+   "4b77e304d83943999198c3cd4457512c": {
+      "skybox": 4,
+      "angle": 176,
+      "action": 32,
+      "x_offset": 675,
+      "y_offset": 115,
+      "scale": 15
+   },
+   "60668601cee245e5bb27a12d0b022918": {
+      "skybox": 2,
+      "angle": 201,
+      "action": 35,
+      "x_offset": 471,
+      "y_offset": 402,
+      "scale": 53
+   },
+   "fc4462fb87874bc8b6d77e45806168df": {
+      "skybox": 4,
+      "angle": 311,
+      "action": 19,
+      "x_offset": 620,
+      "y_offset": 622,
+      "scale": 53
+   },
+   "b0299947a912497ba3e1c8f80181f408": {
+      "skybox": 3,
+      "angle": 169,
+      "action": 0,
+      "x_offset": 223,
+      "y_offset": 491,
+      "scale": 79
+   },
+   "649a58719cd7455ebe18675c9719dfa7": {
+      "skybox": 3,
+      "angle": 170,
+      "action": 23,
+      "x_offset": 360,
+      "y_offset": 480,
+      "scale": 25
+   },
+   "e3de486699144933aada2e59873d5984": {
+      "skybox": 2,
+      "angle": 247,
+      "action": 12,
+      "x_offset": 635,
+      "y_offset": 228,
+      "scale": 55
+   },
+   "cd4f7bb78a8b469bac6deaea84e6f68c": {
+      "skybox": 2,
+      "angle": 90,
+      "action": 10,
+      "x_offset": 206,
+      "y_offset": 351,
+      "scale": 34
+   },
+   "c5f2bf41ad33497a925bead423cbfb19": {
+      "skybox": 3,
+      "angle": 299,
+      "action": 15,
+      "x_offset": 628,
+      "y_offset": 437,
+      "scale": 71
+   },
+   "0f1ba9e425a0452eade2a180cfa41e32": {
+      "skybox": 1,
+      "angle": 360,
+      "action": 6,
+      "x_offset": 360,
+      "y_offset": 520,
+      "scale": 62
+   },
+   "99fa48d974fa43988f369b0e5766b36e": {
+      "skybox": 1,
+      "angle": 235,
+      "action": 18,
+      "x_offset": 519,
+      "y_offset": 185,
+      "scale": 32
+   },
+   "c3b46ef0552142a6b62a45cd30f26de8": {
+      "skybox": 4,
+      "angle": 44,
+      "action": 10,
+      "x_offset": 644,
+      "y_offset": 648,
+      "scale": 43
+   },
+   "a872e012dec3414a8624f6ebda4b752c": {
+      "skybox": 2,
+      "angle": 118,
+      "action": 5,
+      "x_offset": 375,
+      "y_offset": 609,
+      "scale": 72
+   },
+   "80f652ffcdfa47ada388a00233624799": {
+      "skybox": 2,
+      "angle": 302,
+      "action": 16,
+      "x_offset": 489,
+      "y_offset": 570,
+      "scale": 69
+   },
+   "7d01dee740ef4288b111dc65f449ca22": {
+      "skybox": 2,
+      "angle": 172,
+      "action": 22,
+      "x_offset": 685,
+      "y_offset": 305,
+      "scale": 67
+   },
+   "15791b161c944d269ae3727bf19fc1a6": {
+      "skybox": 2,
+      "angle": 121,
+      "action": 14,
+      "x_offset": 621,
+      "y_offset": 530,
+      "scale": 30
+   },
+   "126fdbcf213d4d5d95674ccba62fc72b": {
+      "skybox": 2,
+      "angle": 217,
+      "action": 1,
+      "x_offset": 329,
+      "y_offset": 641,
+      "scale": 72
+   },
+   "59d2f40b1fbf4784b2b661f05a439fad": {
+      "skybox": 3,
+      "angle": 286,
+      "action": 17,
+      "x_offset": 167,
+      "y_offset": 681,
+      "scale": 30
+   },
+   "c1b7a383f8474e7d951ebea82bb82818": {
+      "skybox": 2,
+      "angle": 21,
+      "action": 26,
+      "x_offset": 138,
+      "y_offset": 142,
+      "scale": 48
+   },
+   "40eda297975f4648bbc301ff98940fcf": {
+      "skybox": 1,
+      "angle": 41,
+      "action": 27,
+      "x_offset": 653,
+      "y_offset": 394,
+      "scale": 51
+   },
+   "d8ce438c0ca246748186b48d3ac3eb50": {
+      "skybox": 1,
+      "angle": 90,
+      "action": 38,
+      "x_offset": 529,
+      "y_offset": 166,
+      "scale": 66
+   },
+   "1144d00a8ebd417f8a0de419ea12c1e5": {
+      "skybox": 1,
+      "angle": 146,
+      "action": 4,
+      "x_offset": 363,
+      "y_offset": 664,
+      "scale": 74
+   },
+   "980150b99a2946a0894c33df8fb616d2": {
+      "skybox": 1,
+      "angle": 326,
+      "action": 20,
+      "x_offset": 665,
+      "y_offset": 118,
+      "scale": 52
+   },
+   "de87c39b7dd046bda1f0819c53670338": {
+      "skybox": 3,
+      "angle": 35,
+      "action": 5,
+      "x_offset": 673,
+      "y_offset": 239,
+      "scale": 44
+   },
+   "e611700e04a24c3dabb73b0b000e5589": {
+      "skybox": 2,
+      "angle": 266,
+      "action": 28,
+      "x_offset": 504,
+      "y_offset": 500,
+      "scale": 78
+   },
+   "3aba2bf1310e4a10918e4a5bc51d1979": {
+      "skybox": 1,
+      "angle": 230,
+      "action": 6,
+      "x_offset": 379,
+      "y_offset": 347,
+      "scale": 77
+   },
+   "d83a8f5db61b4b78afc1c1d855b4c8b9": {
+      "skybox": 4,
+      "angle": 161,
+      "action": 7,
+      "x_offset": 310,
+      "y_offset": 462,
+      "scale": 52
+   },
+   "6ecf3c792e5c48b4921e21fbb3aeff3c": {
+      "skybox": 0,
+      "angle": 220,
+      "action": 6,
+      "x_offset": 360,
+      "y_offset": 480,
+      "scale": 64
+   },
+   "3bbffb39570649958d7147a0099ccb48": {
+      "skybox": 4,
+      "angle": 31,
+      "action": 1,
+      "x_offset": 473,
+      "y_offset": 110,
+      "scale": 31
+   },
+   "f0307e707d50446097021ce802f44a4e": {
+      "skybox": 3,
+      "angle": 292,
+      "action": 26,
+      "x_offset": 327,
+      "y_offset": 659,
+      "scale": 42
+   },
+   "8c973e0dd63e490db73c44ff6959854b": {
+      "skybox": 2,
+      "angle": 190,
+      "action": 26,
+      "x_offset": 511,
+      "y_offset": 174,
+      "scale": 72
+   },
+   "b0d9ca4f89d64be18df9a3b01cd82f4b": {
+      "skybox": 2,
+      "angle": 163,
+      "action": 32,
+      "x_offset": 166,
+      "y_offset": 462,
+      "scale": 37
+   },
+   "4ac64d15d707442fb420caf68131d7d6": {
+      "skybox": 4,
+      "angle": 68,
+      "action": 13,
+      "x_offset": 175,
+      "y_offset": 269,
+      "scale": 31
+   },
+   "91b54e8895bf4d63922b5ef7ea839d4c": {
+      "skybox": 2,
+      "angle": 128,
+      "action": 21,
+      "x_offset": 337,
+      "y_offset": 197,
+      "scale": 20
+   },
+   "7b99fad7a2b243dea6b50dc65d03fbc7": {
+      "skybox": 1,
+      "angle": 254,
+      "action": 19,
+      "x_offset": 687,
+      "y_offset": 110,
+      "scale": 32
+   },
+   "ef277969af8e477495075389c3e06da6": {
+      "skybox": 1,
+      "angle": 109,
+      "action": 1,
+      "x_offset": 555,
+      "y_offset": 209,
+      "scale": 35
+   },
+   "3107120d425e424dacedb73bf44e9094": {
+      "skybox": 2,
+      "angle": 123,
+      "action": 1,
+      "x_offset": 695,
+      "y_offset": 662,
+      "scale": 71
+   },
+   "d2a0481db3044dfbac40244bdbf9f9e1": {
+      "skybox": 3,
+      "angle": 114,
+      "action": 4,
+      "x_offset": 393,
+      "y_offset": 246,
+      "scale": 45
+   },
+   "ddb93f6063d54365bc6e8c751fd2e698": {
+      "skybox": 3,
+      "angle": 241,
+      "action": 25,
+      "x_offset": 269,
+      "y_offset": 582,
+      "scale": 21
+   },
+   "4cac488dae6a442289ce32fd0b6a42fe": {
+      "skybox": 1,
+      "angle": 299,
+      "action": 22,
+      "x_offset": 197,
+      "y_offset": 205,
+      "scale": 70
+   },
+   "3ffabcbad5894c6e8f03f54453a1e2e9": {
+      "skybox": 3,
+      "angle": 59,
+      "action": 38,
+      "x_offset": 681,
+      "y_offset": 588,
+      "scale": 79
+   },
+   "0b22fa63d0f54a529c525afbf2e8bb25": {
+      "skybox": 3,
+      "angle": 360,
+      "action": 23,
+      "x_offset": 230,
+      "y_offset": 490,
+      "scale": 36
+   },
+   "67d9b711455f43db8e5270016d4bd873": {
+      "skybox": 2,
+      "angle": 212,
+      "action": 26,
+      "x_offset": 219,
+      "y_offset": 357,
+      "scale": 46
+   },
+   "c238ad68f9b443a5b3fc41a4a561363f": {
+      "skybox": 3,
+      "angle": 125,
+      "action": 18,
+      "x_offset": 695,
+      "y_offset": 586,
+      "scale": 16
+   },
+   "75bea3b92c924203951655b393e92979": {
+      "skybox": 3,
+      "angle": 220,
+      "action": 6,
+      "x_offset": 360,
+      "y_offset": 480,
+      "scale": 64
+   },
+   "a991b11e3a524fab95a7a98c3ac18ee4": {
+      "skybox": 1,
+      "angle": 347,
+      "action": 7,
+      "x_offset": 590,
+      "y_offset": 238,
+      "scale": 56
+   },
+   "64565f72062245da87430cc31dd383d9": {
+      "skybox": 4,
+      "angle": 163,
+      "action": 22,
+      "x_offset": 110,
+      "y_offset": 214,
+      "scale": 61
+   },
+   "8c6c60e241e34c0685171c4f55322940": {
+      "skybox": 3,
+      "angle": 173,
+      "action": 9,
+      "x_offset": 681,
+      "y_offset": 267,
+      "scale": 23
+   },
+   "2754c89e3b2645d598ace5d7878f5d13": {
+      "skybox": 4,
+      "angle": 305,
+      "action": 10,
+      "x_offset": 223,
+      "y_offset": 546,
+      "scale": 36
+   },
+   "425e120b2d7742b1a8f0902355908761": {
+      "skybox": 3,
+      "angle": 280,
+      "action": 6,
+      "x_offset": 160,
+      "y_offset": 470,
+      "scale": 35
+   },
+   "e8e2d73795e54b6db89cd32745e79fb9": {
+      "skybox": 3,
+      "angle": 311,
+      "action": 6,
+      "x_offset": 692,
+      "y_offset": 465,
+      "scale": 55
+   },
+   "8072791758d146aba5ff98920a81fa0c": {
+      "skybox": 4,
+      "angle": 154,
+      "action": 7,
+      "x_offset": 201,
+      "y_offset": 488,
+      "scale": 18
+   },
+   "24df7bedfc814d7e9bd610171c862f7a": {
+      "skybox": 2,
+      "angle": 180,
+      "action": 23,
+      "x_offset": 840,
+      "y_offset": 460,
+      "scale": 68
+   },
+   "de68d1221d1749b392aff06c48512cf0": {
+      "skybox": 4,
+      "angle": 111,
+      "action": 17,
+      "x_offset": 399,
+      "y_offset": 545,
+      "scale": 35
+   },
+   "e345211511824219a62f1b8d639c477e": {
+      "skybox": 3,
+      "angle": 118,
+      "action": 12,
+      "x_offset": 122,
+      "y_offset": 264,
+      "scale": 27
+   },
+   "5f93b8e5cfe24367a5a1a999d215a78b": {
+      "skybox": 4,
+      "angle": 110,
+      "action": 34,
+      "x_offset": 307,
+      "y_offset": 616,
+      "scale": 76
+   },
+   "297c3ab529204fafb3ddf80e6efeec7f": {
+      "skybox": 2,
+      "angle": 247,
+      "action": 17,
+      "x_offset": 320,
+      "y_offset": 282,
+      "scale": 61
+   },
+   "b42bdeacac9d4e8d9ac4bd4500a82a51": {
+      "skybox": 1,
+      "angle": 338,
+      "action": 17,
+      "x_offset": 144,
+      "y_offset": 118,
+      "scale": 22
+   },
+   "d5839b78130944da925af878f4e64970": {
+      "skybox": 1,
+      "angle": 43,
+      "action": 2,
+      "x_offset": 193,
+      "y_offset": 493,
+      "scale": 58
+   },
+   "ad2772104c144a579f0a43503cb4c86b": {
+      "skybox": 2,
+      "angle": 145,
+      "action": 21,
+      "x_offset": 661,
+      "y_offset": 340,
+      "scale": 36
+   }
+}
